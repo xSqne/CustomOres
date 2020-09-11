@@ -1,0 +1,7 @@
+name: CustomOres
+version: ${project.version}
+main: me.xsqne.customores.CustomOres
+api-version: 1.16
+commands:
+  ores:
+  citem:
